@@ -70,7 +70,7 @@ personal-portfolio-codsoft/
 
 ** Name**
 - 🐙 GitHub: https://github.com/niteshkumar395
-- 💼 LinkedIn: [https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/nitesh-kumar-2587823b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 LinkedIn: https://www.linkedin.com/in/nitesh-kumar-2587823b9?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: nk1807282@gmail.com
 
 ---
